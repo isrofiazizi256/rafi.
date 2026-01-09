@@ -1,0 +1,6 @@
+- [x] Refine color palette with warmer coffee tones (add secondary colors like cream, deep brown)
+- [x] Add subtle box-shadows to cards and buttons for depth
+- [x] Improve typography: Adjust font weights and line heights for better readability
+- [x] Enhance hover effects gently (e.g., smoother transitions, slight color shifts)
+- [x] Add subtle gradients or overlays to fit coffee theme
+- [x] Test changes by opening Home.html in browser
